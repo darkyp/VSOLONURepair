@@ -57,6 +57,8 @@ The boot configuration pins of the ZTE SoC (that select the type of flash attach
 └── README.md
 ```
 
+The thermal images are in FLIR format including the non-thermal image as well. One can either use tools such as exiftool or the Flir ones to view them.
+
 ---
 
 ## 💻 Software & Network Access
