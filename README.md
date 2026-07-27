@@ -1,6 +1,6 @@
 # ZTE / V-SOLUTION ONU Hardware Repair & Firmware Backup
 
-A complete teardown, hardware diagnostic, repair guide, and firmware dump analysis for V-SOLUTION / ZTE-derived GPON ONUs experiencing boot loop / brick issues caused by a bootstrap pin soldering defect.
+A complete teardown, hardware diagnostic, repair guide, and firmware dump analysis for V-SOLUTION / ZTE-derived GPON ONUs experiencing boot loop / brick issues caused by a bootstrap pin soldering defect. The problem occurs only on power up. Once the device boots succefully the problem will not appear except for non working leds until the next reboot.
 
 ---
 
